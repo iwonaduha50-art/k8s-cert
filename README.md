@@ -4,6 +4,8 @@
 
 **微信联系📥：添加微信k8s-cert（添加时备注：github）,（可拉到最下面看店铺地址）一杯奶茶钱就能得到题库+本地练习环境+web仿真模拟考环境+专人问题解答，绝对比花几千报班做大冤种强，报班那些就纯忽悠，考这个证根本不需要看视频**
 
+**体验网址：https://ok8s.xyz:8443/**
+
 欢迎来到 CKA（Certified Kubernetes Administrator）、CKS（Certified Kubernetes Security Specialist）、CKAD（Certified Kubernetes Application Developer）备考训练服务仓库！这里为正在备考 Kubernetes 相关认证的同学，提供一站式备考解决方案，助力大家高效通关认证考试。
 
 本仓库整合了精准题库、本地可直接部署的练习环境、1:1 仿真模拟考试三大核心服务，无需复杂配置，上手即可投入备考，兼顾基础巩固、专项突破和考前模拟，适配不同备考阶段的需求。依托专业备考体系，**通过率百分百，基本练习一周即可顺利下证**，高效助力大家快速拿证。
